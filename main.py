@@ -26,4 +26,4 @@ example_string = "A man, a plan, a canal, Panama"
 print(is_palindrome(example_string))  # Вывод: True
 
 example_string = "A mans, a plans, a canals, Panama"
-print(is_palindrome(example_string))  # Вывод: True
+print(is_palindrome(example_string))  # Вывод: False
